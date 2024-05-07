@@ -1,0 +1,33 @@
+.container2 {
+  background-color: rgb(255, 255, 255);
+  width: 20rem;
+  height: auto;
+  padding: 15px;
+  border: 2px solid #1b3c73;
+  margin-top: 40px;
+  margin-left: 10px;
+  box-shadow: 0px 2px 4px azure;
+  border-radius: 10px;
+  text-align: center;
+}
+
+#heading{
+    margin: 10px 0px 10px 0px;
+    color: #1B3C73 ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+}
+
+.sample {
+  width: 250px;
+  height: auto;
+    margin-top: 40px;
+  opacity: 40%;
+}
+
+.download{
+    margin-top: 75px;
+    width: 150px;
+    height: 40px;
+    background-color: #65B741;
+}

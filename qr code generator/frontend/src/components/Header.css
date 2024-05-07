@@ -1,0 +1,26 @@
+.header{
+    background-color: azure;
+    padding: 5px;
+    display: flex;
+    
+    
+}
+
+.logo{
+    height: auto;
+    width: 70px;
+}
+
+.app-name{
+    margin: 0;
+    padding-top: 10px;
+    padding-left: 15px;
+    color: #1B3C73;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:600;
+}
+
+.app-desc{
+    margin: 2px;
+    padding-left: 18px;
+}
